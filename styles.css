@@ -1,0 +1,23 @@
+body {
+background-color: rgb(129, 212, 250);
+font-size: 25px;
+margin: 0px;
+margin-bottom: 100px;
+}
+header{
+    border:solid 3px rgb(0, 145, 234);
+    display :flex;
+    justify-content: center;
+}
+ header{
+font-size: 25px;
+display:flex;
+justify-content: center;
+
+} 
+
+.fodase{
+    font-size: 25px;
+    display: solid;
+    justify-content: center;
+}
